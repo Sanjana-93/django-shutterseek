@@ -15,7 +15,7 @@ A Django web application to search and display images using the Unsplash API. Us
 ## Installation & Setup
 
 1. Clone this repository:
-   git clone https://github.com/Sanjana-33/django-shutterseek.git
+   git clone https://github.com/Sanjana-93/django-shutterseek.git
 
 2. Install dependencies:
    pip install -r requirements.txt
